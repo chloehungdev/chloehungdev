@@ -4,21 +4,13 @@
 <p align="center">
   <img
     alt="CHLOE HUNG — Designer. Developer. Dreamer."
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=26&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Chloe+Hung;Designer.+Developer.+Dreamer."
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=45&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Chloe+Hung;Designer.+Developer.+Dreamer."
   />
 </p>
 
 <!-- Tagline -->
 <p align="center">
   <em>I build high-performance web experiences — blending design, code, and storytelling.</em>
-</p>
-
-<!-- Contact & Socials (badges wrap automatically on mobile) -->
-<p align="center">
-  <a href="mailto:chloe@greenchar.co"><img alt="Email (Sustainability)" src="https://img.shields.io/badge/Email%20(Greenchar)-16a34a?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="mailto:chloehung.yingxuan@gmail.com"><img alt="Email (Design/Web)" src="https://img.shields.io/badge/Email%20(Design%2FWeb)-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/chloehungyx" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/hungst.er" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -173,8 +165,7 @@
 
 ---
 
-### 💌 Let’s Connect
-<div align="center" style="max-width:820px;margin:auto;">
+<div align="center" style="max-width:1200px;margin:auto;">
   <!-- Wave title -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -184,10 +175,28 @@
     <img alt="Let's connect wave" src="https://capsule-render.vercel.app/api?type=waving&color=60A5FA&height=90&section=header&text=Let%E2%80%99s%20Connect!&fontColor=0F172A&fontSize=28&animation=twinkling&fontAlignY=36"/>
   </picture>
 
-  <!-- Social icon row -->
-  <p>
-    <img src="https://skillicons.dev/icons?i=github,linkedin,instagram,notion,figma,vercel&perline=6" height="36" alt="social icons"/>
-  </p>
+
+<!-- 🌐 Social Icon Row with Clickable Links -->
+<p align="center" style="margin-top:10px;">
+  <a href="https://github.com/chloehungdev" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="38" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chloehungyx" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="38" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/hungst.er" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" height="38" alt="Instagram"/>
+  </a>
+  <a href="https://www.notion.so" target="_blank" title="Notion">
+    <img src="https://skillicons.dev/icons?i=notion" height="38" alt="Notion"/>
+  </a>
+  <a href="https://www.figma.com/@chloehung" target="_blank" title="Figma">
+    <img src="https://skillicons.dev/icons?i=figma" height="38" alt="Figma"/>
+  </a>
+  <a href="https://vercel.com/chloehungdev" target="_blank" title="Vercel">
+    <img src="https://skillicons.dev/icons?i=vercel" height="38" alt="Vercel"/>
+  </a>
+</p>
 
   <!-- Footer -->
   <picture>
