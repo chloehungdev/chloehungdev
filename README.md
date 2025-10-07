@@ -1,20 +1,23 @@
 <!-- 🌸 Profile README • Chloe Hung (Mobile-optimised) -->
 
 <!-- Typing intro (desktop + mobile-safe) -->
-<p align="center">
+<!-- Typing Intro (Mobile-Safe & Not Clipped) -->
+<p align="center" style="margin-top: 24px;">
   <picture>
-    <!-- Phones -->
+    <!-- Mobile -->
     <source
       media="(max-width: 480px)"
-      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=360&height=80&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
-    <!-- Tablets -->
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=380&height=120&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
+    <!-- Tablet -->
     <source
       media="(max-width: 768px)"
-      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=520&height=96&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
-    <!-- Desktop (default) -->
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=580&height=130&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
+    <!-- Desktop -->
     <img
       alt="CHLOE HUNG — Designer. Developer. Dreamer."
-      src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=110&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=46&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=140&lines=Chloe+Hung;Designer.+Developer.+Dreamer."
+      style="max-width: 100%; height: auto;"
+    />
   </picture>
 </p>
 <!-- Tagline -->
@@ -134,7 +137,7 @@
 
 ---
 
-### 📊 GitHub Stats (auto-adapts to dark/light)
+### 📊 GitHub Stats
 
 <p align="center">
 
