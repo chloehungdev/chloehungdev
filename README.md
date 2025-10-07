@@ -4,7 +4,7 @@
 <p align="center">
   <img
     alt="Chloe Hung — Designer. Developer. Dreamer."
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Chloe+Hung;Designer.+Developer.+Dreamer.;I+build+high-performance+web+experiences"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Chloe+Hung;Designer.+Developer.+Dreamer."
   />
 </p>
 
