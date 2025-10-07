@@ -1,13 +1,22 @@
 <!-- 🌸 Profile README • Chloe Hung (Mobile-optimised) -->
 
-<!-- Typing intro (auto-scales nicely on mobile) -->
+<!-- Typing intro (desktop + mobile-safe) -->
 <p align="center">
-  <img
-    alt="CHLOE HUNG — Designer. Developer. Dreamer."
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=45&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Chloe+Hung;Designer.+Developer.+Dreamer."
-  />
+  <picture>
+    <!-- Phones -->
+    <source
+      media="(max-width: 480px)"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=360&height=80&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
+    <!-- Tablets -->
+    <source
+      media="(max-width: 768px)"
+      srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=520&height=96&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
+    <!-- Desktop (default) -->
+    <img
+      alt="CHLOE HUNG — Designer. Developer. Dreamer."
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=44&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=900&height=110&lines=Chloe+Hung;Designer.+Developer.+Dreamer." />
+  </picture>
 </p>
-
 <!-- Tagline -->
 <p align="center">
   <em>I build high-performance web experiences — blending design, code, and storytelling.</em>
