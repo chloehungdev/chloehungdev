@@ -61,6 +61,7 @@
     <div style="color:#a7b3c5;margin:4px 0 10px;">Immersive 3D Collectors' Dimension</div>
     <a href="https://3-d-interactive-dreamland-collectibles-9r4a-2xd9jnchk.vercel.app/" style="text-decoration:none;background:linear-gradient(90deg,#22d3ee,#3b82f6);color:#00121e;border-radius:10px;padding:8px 12px;font-weight:700;font-size:12px;">Live ↗</a>
     <a href="https://github.com/Chloehungdev/Dreamland-Collectibles" style="text-decoration:none;margin-left:8px;background:#141a23;color:#cdd9e5;border:1px solid #2b3542;border-radius:10px;padding:8px 12px;font-weight:600;font-size:12px;">Code</a>
+    <br> </br>
   </div>
 </div>
 
@@ -74,6 +75,7 @@
     <div style="color:#a7b3c5;margin:4px 0 10px;">Scroll-driven Shopify experience for hydrogen-infused water</div>
     <a href="https://elevate-os-61cc9912.base44.app/" style="text-decoration:none;background:linear-gradient(90deg,#22d3ee,#3b82f6);color:#00121e;border-radius:10px;padding:8px 12px;font-weight:700;font-size:12px;">Live ↗</a>
     <a href="https://github.com/Chloehungdev/Elevate-POC" style="text-decoration:none;margin-left:8px;background:#141a23;color:#cdd9e5;border:1px solid #2b3542;border-radius:10px;padding:8px 12px;font-weight:600;font-size:12px;">Code</a>
+     <br> </br>
   </div>
 </div>
 
@@ -87,6 +89,7 @@
     <div style="color:#a7b3c5;margin:4px 0 10px;">B2B medical platform for hospitals & government buyers</div>
     <a href="https://med-supply-pro.vercel.app/home" style="text-decoration:none;background:linear-gradient(90deg,#22d3ee,#3b82f6);color:#00121e;border-radius:10px;padding:8px 12px;font-weight:700;font-size:12px;">Live ↗</a>
     <a href="https://github.com/Chloehungdev/Med-Supply-Pro" style="text-decoration:none;margin-left:8px;background:#141a23;color:#cdd9e5;border:1px solid #2b3542;border-radius:10px;padding:8px 12px;font-weight:600;font-size:12px;">Code</a>
+    <br> </br>
   </div>
 </div>
 
@@ -106,6 +109,7 @@
       <strong>🧠 EggboxTech</strong>
       <div style="color:#374151;margin:4px 0 10px;">Shopify store for electronics & innovation</div>
       <a href="https://www.eggboxtech.com">🔗 Live</a>
+       <br> </br>
     </div>
   </div>
 
@@ -118,6 +122,7 @@
       <strong>📖 Joann’s Legacy Publishing</strong>
       <div style="color:#374151;margin:4px 0 10px;">Children’s book store with auto-flip & memorial wall</div>
       <a href="https://joannslegacypublishing.myshopify.com/">🔗 Live</a>
+        <br> </br>
     </div>
   </div>
 
@@ -130,6 +135,7 @@
       <strong>🏢 Headwind Group</strong>
       <div style="color:#374151;margin:4px 0 10px;">B2B brand & retail platform (corporate/merch)</div>
       <a href="https://headwind-group.com/">🔗 Live</a>
+        <br> </br>
     </div>
   </div>
 
