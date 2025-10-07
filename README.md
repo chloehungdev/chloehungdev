@@ -126,18 +126,6 @@
     </div>
   </div>
 
-  <!-- Card: Headwind Group -->
-  <div align="center" style="max-width:820px;margin:12px auto;padding:14px;border:1px solid #e5e7eb;border-radius:14px;background:#ffffff;">
-    <a href="https://headwind-group.com/" target="_blank">
-      <img src="https://github.com/chloehungdev/chloehungdev/blob/main/headwindgrouphero.png?raw=true" alt="Headwind Group" style="width:100%;border-radius:10px;border:1px solid #e5e7eb;">
-    </a>
-    <div style="text-align:left;margin-top:10px;">
-      <strong>🏢 Headwind Group</strong>
-      <div style="color:#374151;margin:4px 0 10px;">B2B brand & retail platform (corporate/merch)</div>
-      <a href="https://headwind-group.com/">🔗 Live</a>
-        <br> </br>
-    </div>
-  </div>
 
 </details>
 
