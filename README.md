@@ -100,6 +100,21 @@
 <details>
   <summary><b>Tap to view </b></summary>
 
+  <!-- Card: Numara Skincare -->
+<div align="center" style="max-width:820px; margin:12px auto; padding:14px; border:1px solid #e5e7eb; border-radius:14px; background:#ffffff;">
+  <a href="https://www.mynumara.com/" target="_blank">
+    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/mynumarapdp-ezgif.com-video-to-gif-converter.gif" alt="Numara Skincare" style="width:100%; border-radius:10px; border:1px solid #e5e7eb;">
+  </a>
+  <div style="text-align:left; margin-top:10px;">
+    <strong>💧 Numara Skincare / Wellness</strong>
+    <div style="color:#374151; margin:4px 0 10px;">
+      Shopify wellness storefront focused on women’s health, custom subscription UX, sleek transitions, and elevated product storytelling.
+    </div>
+    <a href="https://www.mynumara.com/">🔗 Live</a>
+    <br> </br>
+  </div>
+</div>
+
   <!-- Card: EggboxTech -->
   <div align="center" style="max-width:820px;margin:12px auto;padding:14px;border:1px solid #e5e7eb;border-radius:14px;background:#ffffff;">
     <a href="https://www.eggboxtech.com" target="_blank">
