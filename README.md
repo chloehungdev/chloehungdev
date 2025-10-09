@@ -48,50 +48,76 @@
 </p>
 
 ---
-
 ## 🚧 Work in Progress / Projects
 
-<!-- Card: Dreamland -->
-<div align="center" style="max-width:820px;margin:12px auto;padding:14px;border:1px solid #2a2f3a;border-radius:14px;background:linear-gradient(180deg,#0d1117 0%,#0f172a 100%);box-shadow:0 6px 18px rgba(0,0,0,.25);">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+<td width="33%" valign="top" style="padding:10px;">
   <a href="https://3-d-interactive-dreamland-collectibles-9r4a-2xd9jnchk.vercel.app/" target="_blank">
-    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/dreamland-collectors.png?raw=true" alt="Dreamland Collectibles" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
+    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/dreamland-collectors.png?raw=1" alt="Dreamland Collectibles" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
   </a>
-  <div style="text-align:left;margin-top:10px;">
-    <strong style="font-size:16px;color:#E5F2FF;">🧸 Dreamland Collectibles</strong>
-    <div style="color:#a7b3c5;margin:4px 0 10px;">Immersive 3D Collectors' Dimension</div>
-    <a href="https://3-d-interactive-dreamland-collectibles-9r4a-2xd9jnchk.vercel.app/" style="text-decoration:none;background:linear-gradient(90deg,#22d3ee,#3b82f6);color:#00121e;border-radius:10px;padding:8px 12px;font-weight:700;font-size:12px;">Live ↗</a>
-    <a href="https://github.com/Chloehungdev/Dreamland-Collectibles" style="text-decoration:none;margin-left:8px;background:#141a23;color:#cdd9e5;border:1px solid #2b3542;border-radius:10px;padding:8px 12px;font-weight:600;font-size:12px;">Code</a>
-    <br> </br>
+  <div style="margin-top:8px;text-align:center;">
+    <b>🧸 Dreamland Collectibles</b><br>
+    <span style="color:#a7b3c5;font-size:12px;">Immersive 3D Collectors' Dimension</span><br>
+    <a href="https://3-d-interactive-dreamland-collectibles-9r4a-2xd9jnchk.vercel.app/" style="background:#22d3ee;color:#00121e;border-radius:8px;padding:4px 8px;font-size:12px;text-decoration:none;">Live ↗</a>
   </div>
-</div>
+</td>
 
-<!-- Card: Elevate -->
-<div align="center" style="max-width:820px;margin:12px auto;padding:14px;border:1px solid #2a2f3a;border-radius:14px;background:linear-gradient(180deg,#0d1117 0%,#0f172a 100%);box-shadow:0 6px 18px rgba(0,0,0,.25);">
+<td width="33%" valign="top" style="padding:10px;">
   <a href="https://elevate-os-61cc9912.base44.app/" target="_blank">
-    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/elevate-hydrogen.png?raw=true" alt="Elevate Hydrogen" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
+    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/elevate-hydrogen.png?raw=1" alt="Elevate Hydrogen" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
   </a>
-  <div style="text-align:left;margin-top:10px;">
-    <strong style="font-size:16px;color:#E5F2FF;">💧 Elevate Hydrogen</strong>
-    <div style="color:#a7b3c5;margin:4px 0 10px;">Scroll-driven Shopify experience for hydrogen-infused water</div>
-    <a href="https://elevate-os-61cc9912.base44.app/" style="text-decoration:none;background:linear-gradient(90deg,#22d3ee,#3b82f6);color:#00121e;border-radius:10px;padding:8px 12px;font-weight:700;font-size:12px;">Live ↗</a>
-    <a href="https://github.com/Chloehungdev/Elevate-POC" style="text-decoration:none;margin-left:8px;background:#141a23;color:#cdd9e5;border:1px solid #2b3542;border-radius:10px;padding:8px 12px;font-weight:600;font-size:12px;">Code</a>
-     <br> </br>
+  <div style="margin-top:8px;text-align:center;">
+    <b>💧 Elevate Hydrogen</b><br>
+    <span style="color:#a7b3c5;font-size:12px;">Scroll-driven Shopify Experience</span><br>
+    <a href="https://elevate-os-61cc9912.base44.app/" style="background:#22d3ee;color:#00121e;border-radius:8px;padding:4px 8px;font-size:12px;text-decoration:none;">Live ↗</a>
   </div>
-</div>
+</td>
 
-<!-- Card: Med Supply -->
-<div align="center" style="max-width:820px;margin:12px auto;padding:14px;border:1px solid #2a2f3a;border-radius:14px;background:linear-gradient(180deg,#0d1117 0%,#0f172a 100%);box-shadow:0 6px 18px rgba(0,0,0,.25);">
+<td width="33%" valign="top" style="padding:10px;">
   <a href="https://med-supply-pro.vercel.app/home" target="_blank">
-    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/medsupplypro.png?raw=true" alt="Med Supply Pro" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
+    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/medsupplypro.png?raw=1" alt="Med Supply Pro" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
   </a>
-  <div style="text-align:left;margin-top:10px;">
-    <strong style="font-size:16px;color:#E5F2FF;">🏥 Med Supply Pro</strong>
-    <div style="color:#a7b3c5;margin:4px 0 10px;">B2B medical platform for hospitals & government buyers</div>
-    <a href="https://med-supply-pro.vercel.app/home" style="text-decoration:none;background:linear-gradient(90deg,#22d3ee,#3b82f6);color:#00121e;border-radius:10px;padding:8px 12px;font-weight:700;font-size:12px;">Live ↗</a>
-    <a href="https://github.com/Chloehungdev/Med-Supply-Pro" style="text-decoration:none;margin-left:8px;background:#141a23;color:#cdd9e5;border:1px solid #2b3542;border-radius:10px;padding:8px 12px;font-weight:600;font-size:12px;">Code</a>
-    <br> </br>
+  <div style="margin-top:8px;text-align:center;">
+    <b>🏥 Med Supply Pro</b><br>
+    <span style="color:#a7b3c5;font-size:12px;">B2B platform for hospitals & government buyers</span><br>
+    <a href="https://med-supply-pro.vercel.app/home" style="background:#22d3ee;color:#00121e;border-radius:8px;padding:4px 8px;font-size:12px;text-decoration:none;">Live ↗</a>
   </div>
-</div>
+</td>
+</tr>
+
+<tr>
+<td width="33%" valign="top" style="padding:10px;">
+  <a href="https://planet-motors.base44.app/" target="_blank">
+    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/planet-motors-cover.png?raw=1" alt="Next-Gen Automotive Experience" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
+  </a>
+  <div style="margin-top:8px;text-align:center;">
+    <b>🚗 Planet Motors</b><br>
+    <span style="color:#a7b3c5;font-size:12px;">3D Vehicle Gallery + AI Assistant</span><br>
+    <a href="https://planet-motors.base44.app/" style="background:#22d3ee;color:#00121e;border-radius:8px;padding:4px 8px;font-size:12px;text-decoration:none;">Live ↗</a>
+  </div>
+</td>
+
+<td width="33%" valign="top" style="padding:10px;">
+  <a href="https://foundation-cinematic-leap.lovable.app" target="_blank">
+    <img src="https://github.com/chloehungdev/chloehungdev/blob/main/GlissiPocRec.mp4" alt="Cinematic Brand POC" style="width:100%;border-radius:10px;border:1px solid #2e3440;">
+  </a>
+  <div style="margin-top:8px;text-align:center;">
+    <b>🏛️ Cinematic Brand POC</b><br>
+    <span style="color:#a7b3c5;font-size:12px;">Luxury black-and-gold scroll experience</span><br>
+    <a href="https://foundation-cinematic-leap.lovable.app" style="background:#22d3ee;color:#00121e;border-radius:8px;padding:4px 8px;font-size:12px;text-decoration:none;">Live ↗</a>
+  </div>
+</td>
+
+<td width="33%" valign="top" style="padding:10px;">
+  <video src="https://raw.githubusercontent.com/chloehungdev/chloehungdev/main/GlissiPocRec.mp4" style="width:100%;border-radius:10px;border:1px solid #2e3440;" autoplay muted loop playsinline></video>
+  <div style="margin-top:8px;text-align:center;">
+    <b>🎥 Product Flow Demo</b><br>
+    <span style="color:#a7b3c5;font-size:12px;">Autoplay preview (muted)</span>
+  </div>
+</td>
+</tr>
+</table>
 
 ---
 
